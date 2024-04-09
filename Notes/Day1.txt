@@ -3,3 +3,8 @@ Git:
 git init
 git add
 git commit
+git push origin master
+git status
+git log
+git branch
+git checkout
