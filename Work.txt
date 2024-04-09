@@ -3,3 +3,5 @@
 Git work
 
 Added readme
+
+Same file conflicts
